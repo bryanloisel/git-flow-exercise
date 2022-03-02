@@ -15,7 +15,7 @@ Source: https://example.com/link/to/original/recipe/
 600g fresh gnocchi
 125g mozzarella ball, cut into chunks
 small bunch of basil , torn
-green salad , to serve
+green salad , to serve cold
 
 # Instructions
 
